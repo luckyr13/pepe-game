@@ -1,4 +1,9 @@
-# pepe-game
+<p align="center">
+ <img width="20%" style="margin: 0 auto;" src="./docs/img/assets/scenes/intro/frogJumping.png" >
+  <img width="40%" style="margin: 0 auto;" src="./docs/img/assets/scenes/intro/mainText.png" >
+</p>
+
+# Run, Pepe, run!
  A JS game on Phaser.
  
  # DEMO
